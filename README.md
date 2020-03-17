@@ -16,4 +16,4 @@ This is a set of Postman collections that might help in the COVID-19 pandemic--c
 
 ## New Codid-19 APIs
 
-- **Covid19API** ([https://documenter.getpostman.com/view/35240/SzS4Rmy8](https://documenter.getpostman.com/view/35240/SzS4Rmy8)) - A free API for data on the Coronavirus Access data on COVID19 through an easy API for free.
+- **Covid19API** ([Docs](https://documenter.getpostman.com/view/35240/SzS4Rmy8)) - A free API for data on the Coronavirus Access data on COVID19 through an easy API for free.
