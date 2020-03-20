@@ -20,6 +20,7 @@ Using existing 3rd party APIs to add value to the COVID-19 conversation.
 API possibilities opened up by scraping of COVID-19 related data and making available as APIs.
 
 - **CDC Cases & Deaths** ([Docs](https://documenter.getpostman.com/view/8854915/SzS7NkTz?version=latest)) - Scraping the COVID-19 cases and deaths from CDC home page, converting to JSON, and saving within an environment.
+- **CDC Testing** ([Docs](https://documenter.getpostman.com/view/8854915/SzS7R6gm?version=latest)) - Scraping the number of specimens tested for SARS CoV-2 by CDC labs and U.S. public health laboratories from the CDC website.
 
 ## Existing API Standards
 If you are building an COVID-19 related APIs we recommend using some existing API and schema standards.
