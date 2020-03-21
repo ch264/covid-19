@@ -16,6 +16,14 @@ Using existing 3rd party APIs to add value to the COVID-19 conversation.
 - **COVID-19 Twitter Searches** [Docs](https://documenter.getpostman.com/view/8854915/SzS7NkEt?version=latest) - Twitter API search, with a handful of the common search terms added.
 - **State Government Twitter** [Docs](https://documenter.getpostman.com/view/8854915/SzS7NkKA?version=latest) - State government Twitter accounts for all 50 states in the United States.
 
+## New Codid-19 APIs
+New APIs that have emerged to specifically address the COVID-19 pandemic.
+
+- **Covid19API** ([Docs](https://documenter.getpostman.com/view/8854915/SzS7NkKE?version=latest)) - A free API for data on the Coronavirus Access data on COVID19 through an easy API for free.
+- **COVID19-Tracker-REST API** - ([Docs](https://documenter.getpostman.com/view/4074074/SzS7Pkup?version=latest)) - Provides global and country level statistics on the Coronavirus.
+- **NovelCOVID API** ([Docs](https://documenter.getpostman.com/view/8854915/SzS7R6uu?version=latest)) - API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain.
+- **COVID-19 API** ([Docs](https://documenter.getpostman.com/view/8854915/SzS7R74j?version=latest)) - The COVID-19 API provides information related with the case of pneumonia associated with the COVID-19 coronavirus. 
+
 ## ScrAPIs
 API possibilities opened up by scraping of COVID-19 related data and making available as APIs.
 
@@ -27,8 +35,3 @@ If you are building an COVID-19 related APIs we recommend using some existing AP
 
 - **211 for Health and Human Services** [Docs](https://documenter.getpostman.com/view/8854915/SzS7NkKB?version=latest) - An open schema and API standard for defining health and human service organizations, locations, and services.
 - **311 for Non-Emergency Requests** [Docs](https://documenter.getpostman.com/view/8854915/SzS7NkKC?version=latest) - An open schema and API standard for defining non-emergency requests.
-
-## New Codid-19 APIs
-New APIs that have emerged to specifically address the COVID-19 pandemic.
-
-- **Covid19API** ([Docs](https://documenter.getpostman.com/view/8854915/SzS7NkKE?version=latest)) - A free API for data on the Coronavirus Access data on COVID19 through an easy API for free.
