@@ -50,7 +50,7 @@ https://documenter.getpostman.com/view/8854915/SzS8uRT4?version=latest
 ```
 
 ### Google Sheets to API
-Deploying APIs from PostgreSQL database using Postman.
+Developing a Postman Collection that pulls data from a Google Sheet and then makes it available as an API, allowing the data to be seamlessly integrated into other websites and applications.
 
 **Documentation URL**
 ```
@@ -62,7 +62,7 @@ https://documenter.getpostman.com/view/8854915/SzS8uRXM?version=latest
 ```
 
 ### Heroku Database to API
-Deploying APIs from PostgreSQL database using Postman.
+Developing a Postman Collection that scrapes data from an existing website and then makes it available as an API for integration into other websites and applications.
 
 **Documentation URL**
 ```

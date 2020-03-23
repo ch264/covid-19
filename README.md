@@ -1,6 +1,8 @@
 # COVID-19
 This is a set of Postman collections that might help in the COVID-19 pandemic--click on the docs link for more information about each set of APIs, as well as a Run in Postman Button and environment so you can begin making API calls using each one.
 
+This project will eventually move here - https://github.com/postmanlabs/covid-19-apis.
+
 ## COVID-19 Information
 Collections that make easier to pull, aggregate, and work with COVID-19 information.
 
@@ -44,3 +46,19 @@ If you are building an COVID-19 related APIs we recommend using some existing AP
 
 - **211 for Health and Human Services** [Docs](https://documenter.getpostman.com/view/8854915/SzS7NkKB?version=latest) - An open schema and API standard for defining health and human service organizations, locations, and services.
 - **311 for Non-Emergency Requests** [Docs](https://documenter.getpostman.com/view/8854915/SzS7NkKC?version=latest) - An open schema and API standard for defining non-emergency requests.
+
+## Data API Templates
+These are some collections being developed to help make the deployment of data APIs easier using common services.
+
+- **Google Sheets to API** [Docs](https://documenter.getpostman.com/view/8854915/SzS8uRXM?version=latest) - Developing a Postman Collection that pulls data from a Google Sheet and then makes it available as an API, allowing the data to be seamlessly integrated into other websites and applications.
+- **Heroku Database to API** [Docs](https://documenter.getpostman.com/view/8854915/SzS8uRXN?version=latest) - v
+- **AWS Database to API** [Docs](https://documenter.getpostman.com/view/8854915/SzS8uRSy?version=latest) - Deploying APIs from Aurora, MySQL, PostgreSQL, and SQL Server databases using Postman.
+- **Azure Database to API** [Docs](https://documenter.getpostman.com/view/8854915/SzS8uRT2?version=latest) - Deploying APIs from Cosmos DB, MySQL, PostgreSQL, and SQL Server databases using Postman.
+- **Google Database to API** [Docs](https://documenter.getpostman.com/view/8854915/SzS8uRT3?version=latest) - Deploying APIs from Cloud DataStore, MySQL, PostgreSQL, and SQL Server databases using Postman.
+- **Heroku Database to API** [Docs](https://documenter.getpostman.com/view/8854915/SzS8uRT4?version=latest) - Deploying APIs from PostgreSQL database using Postman.
+
+## Proof of Concepts
+These are some proof of concepts being worked on when it comes to COVID-19, showing what is possible with collections.
+
+- Volunteer Opportunities ([GitHub](https://github.com/postman-data-api-templates/volunteer-opportunities)) ([Website](https://postman-data-api-templates.github.io/volunteer-opportunities/)) - An API and listing page of COVID-19 testing location across all 50 states.
+- COVID-19 Testing Locations ([GitHub](https://github.com/covid-19-testing/locations)) ([Website](https://covid-19-testing.github.io/locations/)) - An API and listing page of COVID-19 testing location across all 50 states.
