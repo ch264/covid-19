@@ -18,9 +18,27 @@ https://documenter.getpostman.com/view/8854915/SzS7NkAL?version=latest
 
 ### European Centre for Disease Prevention and Control (ECDC)
 Twitter and YouTube API feeds for ECDC, ad their RSS feeds for pulling information.
-Documentation URL - https://documenter.getpostman.com/view/8854915/SzS7NkAQ?version=latest))
 
-- **World Health Organization (WHO)** ([Docs](https://documenter.getpostman.com/view/8854915/SzS7NkAS?version=latest)) -  - Twitter and YouTube API feeds for WHO, ad their RSS feeds for pulling information.
+**Documentation URL**
+```
+https://documenter.getpostman.com/view/8854915/SzS7NkAQ?version=latest
+```
+**Embed Code**
+```
+<div class="postman-run-button" data-postman-action="collection/import" data-postman-var-1="527e08e53b19a97cdd1f"></div>
+```
+
+### World Health Organization (WHO)
+Twitter and YouTube API feeds for WHO, ad their RSS feeds for pulling information.
+
+**Documentation URL**
+```
+https://documenter.getpostman.com/view/8854915/SzS7NkAS?version=latest
+```
+**Embed Code**
+```
+<div class="postman-run-button"data-postman-action="collection/import"data-postman-var-1="ba0e8998f12c10175550"></div>
+```
 
 ## Twitter
 Postman collection specifically designed to work with the Twitter API.
