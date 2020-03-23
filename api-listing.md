@@ -129,7 +129,7 @@ https://documenter.getpostman.com/view/8854915/SzS7R74j?version=latest
 <div class="postman-run-button" data-postman-action="collection/import" data-postman-var-1="8854915-9979d1db-8724-4e8b-8360-3ad6dfa5f1ef-SzS7R74j"></div>
 ```
 
-Coronavirus Data API
+### Coronavirus Data API
 Provides global stats, country stats, full timeline, and country timeline for the coronavirus.
 
 **Documentation URL**
