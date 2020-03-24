@@ -61,7 +61,7 @@ https://documenter.getpostman.com/view/8854915/SzS8uRXM?version=latest
 <div class="postman-run-button" data-postman-action="collection/import" data-postman-var-1="8854915-6a9e5acc-6eec-4eb8-9840-216bf577440e-SzS8uRXM"></div>
 ```
 
-### Heroku Database to API
+### Website scraping to API
 Developing a Postman Collection that scrapes data from an existing website and then makes it available as an API for integration into other websites and applications.
 
 **Documentation URL**
